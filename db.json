@@ -1,6 +1,7 @@
-[
+
   {
-    "account_id": "6adKZ4kQnGcyP5WWg8KlhAWamQjq5LTgqdELw",
+    "account":[
+      {"id": 1, "account_id": "6adKZ4kQnGcyP5WWg8KlhAWamQjq5LTgqdELw"},
     "balances": {
       "available": 100,
       "current": 110,
@@ -12,4 +13,4 @@
     "subtype": "checking",
     "type": "depository"
   }
- ]
+
