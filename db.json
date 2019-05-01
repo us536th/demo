@@ -1,31 +1,15 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
+[
+  {
+    "account_id": "6adKZ4kQnGcyP5WWg8KlhAWamQjq5LTgqdELw",
+    "balances": {
+      "available": 100,
+      "current": 110,
+      "limit": null
     },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+    "mask": "0000",
+    "name": "Plaid Checking",
+    "official_name": "Plaid Gold Standard 0% Interest Checking",
+    "subtype": "checking",
+    "type": "depository"
   }
-}
+ ]
