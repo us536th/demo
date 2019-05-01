@@ -1,16 +1,14 @@
 
   {
     "account":[
-      {"id": 1, "account_id": "6adKZ4kQnGcyP5WWg8KlhAWamQjq5LTgqdELw"},
-    "balances": {
-      "available": 100,
-      "current": 110,
-      "limit": null
-    },
-    "mask": "0000",
-    "name": "Plaid Checking",
-    "official_name": "Plaid Gold Standard 0% Interest Checking",
-    "subtype": "checking",
-    "type": "depository"
+      {"id": 1, "account_id": "6adKZ4kQnGcyP5WWg8KlhAWamQjq5LTgqdELw"}
+      ],
+    "balances": [
+      {"id": 1, "available": 100, "current": 110, "limit": null}
+      ],
+    "type": [
+      {"id": 1, "mask": "0000", "name": "Plaid Checking", "official_name": "Plaid Gold Standard 0% Interest Checking",
+       "subtype": "checking", "type": "depository"}
+      ]
   }
 
